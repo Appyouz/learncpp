@@ -6,8 +6,10 @@ int main (int argc, char *argv[])
   std::cout << "Enter the choice: " << std::endl;
   std::string str;
   std::cin >> str;
+  char ch {};
+  std::cin >> ch;
   switch (str) {
-    case "one":
+    case "e":
      std::cout << "One" << std::endl;
       break;
     case "two":
