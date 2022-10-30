@@ -1,0 +1,1 @@
+keywowrd 'auto' is similar to 'var' from javascript
