@@ -1,0 +1,15 @@
+# Note:- Do not use cstring unless you really need and know what you are doing.
+PREFER std::string or std::string_view
+-----------------------------------------------------------------------------
+
+There are different inbuilt functions to manipulate to C-style strings 
+under the <cstring> Header. They are:-
+
+
+  1. strcpy(): used to copy a string to another string.
+      syntax:- 
+        strcpy(destination, source);
+strcpy an easily cause array overflow , suppose dest not having enough size for source to be 
+copied. There are other alternatives like strncpy(),strcpy_s(),strlcpy() etc, but they all
+do have their own issues. In conclusion, there is no perfect universal solution for copying
+string.
