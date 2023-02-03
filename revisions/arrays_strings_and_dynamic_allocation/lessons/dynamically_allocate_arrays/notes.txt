@@ -1,0 +1,5 @@
+- [*] Asks the user how many names they wish to enter.
+- [*] Dynamically allocates a std::string array.
+- [*] Asks the user to enter each name.
+- [] Calls std::sort to sort the names (See 11.4 -- Sorting an array using selection sort and 11.9 -- Pointer arithmetic and array indexing)
+- [] Prints the sorted list of names.
