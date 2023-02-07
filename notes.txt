@@ -1,0 +1,6 @@
+Uncleared topics:-
+
+-[] iterators
+-[] lambdas
+-[] static variables
+
