@@ -3,4 +3,6 @@ Uncleared topics:-
 -[] iterators
 -[] lambdas
 -[] static variables
+-[] Structures and enumerators quiz blackjack
+-[] Basic oop quiz 4 get back ot it
 
