@@ -5,4 +5,6 @@ Uncleared topics:-
 -[] static variables
 -[] Structures and enumerators quiz blackjack
 -[] Basic oop quiz 4 get back ot it
+-[] subscript operator quiz about lambda
+-[] operator overloading from 14.9 
 

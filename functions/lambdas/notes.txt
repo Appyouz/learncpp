@@ -1,0 +1,2 @@
+# use lambda whenever we set a function pointer to a function 
+lambda defines function without defining a function
